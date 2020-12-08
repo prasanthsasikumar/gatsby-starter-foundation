@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Bhuvan Sarupuri",
     "titleTemplate": "%s",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "siteUrl": "https://bhuvansarupuri.netlify.app/",
+    "image": "/assets/bhuv_logo.jpg",
+    "iconimage": "/assets/bhuv_logo.jpg",
+    "twitterUsername": "@bhuv"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
