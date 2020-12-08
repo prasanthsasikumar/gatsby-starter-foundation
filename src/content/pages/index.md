@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Bhuvan Sarupuri
+tagline: VR Researcher
 featuredImage: /assets/bhu2.jpg
 cta:
   ctaText: Know more
