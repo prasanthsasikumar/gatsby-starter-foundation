@@ -4,7 +4,7 @@ title: Comfortable Locomotion in VR
 slug: /comfortableLocomotion
 date: 2020-12-09 15:27
 description: locomotion
-featuredImage: /assets/locomotion.jpeg
+featuredImage: /assets/ready-player-one-vr-treadmill-wade-watts.jpg
 ---
 
 
