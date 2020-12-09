@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Augmented Reality Table Top "
-slug: /.artabletop
+slug: /artabletop
 date: 2020-12-09 15:20
 description: "Augmented Reality Tabletop "
 featuredImage: /assets/s02.jpg
